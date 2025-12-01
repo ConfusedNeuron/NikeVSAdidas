@@ -5,3 +5,5 @@ mens_data/
 mens_data/
 .DS_Store
 .idea/
+data
+.ipynb_checkpoints
